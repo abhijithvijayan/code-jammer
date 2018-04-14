@@ -66,6 +66,8 @@ Sample
 ---------
 Note that the last three sample cases would not appear in test set 1.
 
+![Output](.assets/myoutput.jpeg?raw=true "Output")
+
 In Sample Case #1, the President can swap the two instructions to reduce the total damage to 1, which the shield can withstand.
 
 In Sample Case #2, the President does not need to hack the program at all, since the shield can already withstand the 2 total damage it will cause.
