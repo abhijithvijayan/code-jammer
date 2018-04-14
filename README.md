@@ -20,7 +20,6 @@ $ git clone https://github.com/abhijithvijayan/google-codejam-2018.git .
    - Make the commit yours by including the meta info (i.e. Your name in comments in the file)
 3. Create a Pull Request
 
-**N.B.** The other questions will be added soon
 
 
 
