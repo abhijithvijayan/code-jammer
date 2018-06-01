@@ -1,8 +1,8 @@
 # Google-codejam-2018
 Problems for Google Code-Jam 2018 Qualification Round
 
-- Saving The Universe Again
-- Trouble Sort
+- [Saving The Universe Again](https://github.com/abhijithvijayan/google-codejam-2018/tree/master/SavingTheUniverseAgainProblem)
+- [Trouble Sort](https://github.com/abhijithvijayan/google-codejam-2018/tree/master/TroubleSortProblem)
 
 ## [CONTRIBUTING]
 
